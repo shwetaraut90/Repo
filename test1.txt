@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4885-D44D
+
+ Directory of C:\Users\vedika\Desktop\gitpractice
+
+2022-05-24  01:23 PM    <DIR>          .
+2022-05-24  01:23 PM    <DIR>          ..
+2022-05-24  01:23 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  394,597,052,416 bytes free
